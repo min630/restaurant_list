@@ -29,7 +29,7 @@
    npm run start
    ```
 
-5.使用瀏覽器開啟網頁: http://localhost:3000
+5.使用瀏覽器開啟網頁: 預設URL為 http://localhost:3000
 
 ### 開發工具
 
